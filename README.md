@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirasu0801&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirasu0801&layout=compact&langs_count=5&theme=dracula)
 
 
 ### Hi there 👋
