@@ -1,7 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirasu0801)]
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mattn&hide=html)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shirasu0801&hide=html)
 
 
 ### Hi there 👋
