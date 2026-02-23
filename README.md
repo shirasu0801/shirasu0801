@@ -1,4 +1,6 @@
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shirasu0801&hide=html)
+
 ### Hi there 👋
 
 - 💻 I’m currently working on ...System Engineer(Infrastructure for Financial)
